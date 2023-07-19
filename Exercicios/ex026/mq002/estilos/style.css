@@ -16,6 +16,6 @@ html, body {
 
 h1 {
     color: white;
-    text-shadow: 3px 3px 0px #1526a7;
+    text-shadow: 3px 3px 1px #1526a7;
     padding: 10px;
 }
